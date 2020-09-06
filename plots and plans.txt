@@ -1,0 +1,7 @@
+1) Mission hint is given when you land on a Free World planet - it's just general chatter about how Kraz Cybernetics had such success with the plasma turret that they're looking for new projects. Player character muses internally on paying a visit to Rust to see what Barmy's up to these days. 
+2) Player visits Barmy, Barmy brings up the Emerald Sword - which has been quite the sensation. Asks if he can get his hands on schematics from the ship's weapons because he's, quite naturally, in love with that cannon.
+3) Player either gives them their dragonflame cannon, or if they prefer to keep it/don't have one, can go to Zug and Vinci to visit the Sheragi museum and Albert Foster's lab respectively. It's here that they obtained the detailed schematics that were taken by the archaeology team during the first capture. 
+4) Player returns to Barmy, who announces that the Free Worlds have offered to bankroll the project, as they're interested in up-arming their ships.
+5) Some period of time passes, Barmy sends a message for you to check in. Upon arriving at Rust, Ijs interrupts you before meeting with Barmy - he's there to speak on behalf of an anti-proliferation faction within the Free Worlds that would very much prefer that the Dragonflame Cannon not be redeveloped.
+I'm not sure when exactly to branch the story, but this seems like it would be a good point.
+Maybe tune in to a Senate broadcast and get some snippets of them debating.
