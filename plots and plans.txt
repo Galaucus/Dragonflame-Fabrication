@@ -5,3 +5,9 @@
 5) Some period of time passes, Barmy sends a message for you to check in. Upon arriving at Rust, Ijs interrupts you before meeting with Barmy - he's there to speak on behalf of an anti-proliferation faction within the Free Worlds that would very much prefer that the Dragonflame Cannon not be redeveloped.
 I'm not sure when exactly to branch the story, but this seems like it would be a good point.
 Maybe tune in to a Senate broadcast and get some snippets of them debating.
+
+  The main gist of the story is to explore how the Free Worlds have developed since the war, framed through internal conflict over weapons procurement. I'd be interested in telling a story about how the Free Worlds is already starting to resemble the Republic they broke away from, and replicating the same mistakes that led to the need for secession in the first place - a calcified, corrupt senate. 
+
+  One faction in the senate should be in the pockets of the galactic military complex - probably the mining worlds towards the core and the richer worlds in the outer rim, such as Rust and Bourne. They've been bankrolling development of the reforged DFC as well as general military contracts, leaving terraforming and aid to former pirate worlds underfunded. This could potentially lead to a resurgence in piracy, or even acts of terrorism as protest against the FW government. '
+  
+  At the risk of being preachy, I would view the "good" ending as the player siding with the anti-proliferation faction and ensuring that aid shipments continue to flow. Perhaps the new DFC can be developed in a few in-game years on this route, whereas on the other path it takes only a few months - but at the cost of an uprising/secession among the former pirate colonies.
