@@ -27,7 +27,7 @@ outfit "Dragonflame Reforged"
 		"hull damage" 20000
 		"piercing" 0.3
 		"heat damage" 35000
-		"ion damage" 35000
+		"ion damage" 50
 		"hit force" 4000
 	description "When Barmy Edward got his hands on the schematics for the Dragonflame Cannon it was a match made in heaven. Not content to simply replicate the ancient Sheragi weapon, Kraz Cybernetics' resident weaponsmith has made a few tweaks."
 	description "Though its maximum fire rate has been greatly diminished, the addition of additional accumulator matrices allows for less wasteful firing. The result is more energy delivered downrange at less ignition power."
