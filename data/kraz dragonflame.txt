@@ -27,8 +27,10 @@ outfit "Dragonflame Reforged"
 		"hull damage" 20000
 		"piercing" 0.3
 		"heat damage" 60000
+		//Do we want to add ion damage here? It would make sense for a GRASER.
 		"hit force" 4000
 	description "When Barmy Edward got his hands on the schematics for the Dragonflame Cannon it was a match made in heaven."
+	
 	
 outfit "Dragon's Heart"
 	category "Systems"
