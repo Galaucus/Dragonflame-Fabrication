@@ -20,16 +20,17 @@ outfit "Dragonflame Reforged"
 		"lifetime" 1
 		"reload" 750
 		"firing energy" 12000
-		"firing heat" 40000
+		"firing heat" 50000
 		"firing force" 1200
-		"shield damage" 30000
+		"shield damage" 25000
 		"firing fuel" 150
 		"hull damage" 20000
 		"piercing" 0.3
-		"heat damage" 60000
-		//Do we want to add ion damage here? It would make sense for a GRASER.
+		"heat damage" 35000
+		"ion damage" 35000
 		"hit force" 4000
-	description "When Barmy Edward got his hands on the schematics for the Dragonflame Cannon it was a match made in heaven."
+	description "When Barmy Edward got his hands on the schematics for the Dragonflame Cannon it was a match made in heaven. Not content to simply replicate the ancient Sheragi weapon, Kraz Cybernetics' resident weaponsmith has made a few tweaks."
+	description "Though its maximum fire rate has been greatly diminished, the addition of additional accumulator matrices allows for less wasteful firing. The result is more energy delivered downrange at less ignition power."
 	
 	
 outfit "Dragon's Heart"
@@ -40,4 +41,4 @@ outfit "Dragon's Heart"
 	"outfit space" -156
 	"required crew" 4
 	"spinal mount" -1
-	"shield efficiency"
+	"shield efficiency" .2
