@@ -1,3 +1,4 @@
+CAMPAIGN OUTLINE:
 1) Mission hint is given when you land on a Free World planet - it's just general chatter about how Kraz Cybernetics had such success with the plasma turret that they're looking for new projects. Player character muses internally on paying a visit to Rust to see what Barmy's up to these days. 
 2) Player visits Barmy, Barmy brings up the Emerald Sword - which has been quite the sensation. Asks if he can get his hands on schematics from the ship's weapons because he's, quite naturally, in love with that cannon.
 3) Player either gives them their dragonflame cannon, or if they prefer to keep it/don't have one, can go to Zug and Vinci to visit the Sheragi museum and Albert Foster's lab respectively. It's here that they obtained the detailed schematics that were taken by the archaeology team during the first capture. 
@@ -6,8 +7,18 @@
 I'm not sure when exactly to branch the story, but this seems like it would be a good point.
 Maybe tune in to a Senate broadcast and get some snippets of them debating.
 
+THEMES AND STORYTELLING:
   The main gist of the story is to explore how the Free Worlds have developed since the war, framed through internal conflict over weapons procurement. I'd be interested in telling a story about how the Free Worlds is already starting to resemble the Republic they broke away from, and replicating the same mistakes that led to the need for secession in the first place - a calcified, corrupt senate. 
 
   One faction in the senate should be in the pockets of the galactic military complex - probably the mining worlds towards the core and the richer worlds in the outer rim, such as Rust and Bourne. They've been bankrolling development of the reforged DFC as well as general military contracts, leaving terraforming and aid to former pirate worlds underfunded. This could potentially lead to a resurgence in piracy, or even acts of terrorism as protest against the FW government. '
   
   At the risk of being preachy, I would view the "good" ending as the player siding with the anti-proliferation faction and ensuring that aid shipments continue to flow. Perhaps the new DFC can be developed in a few in-game years on this route, whereas on the other path it takes only a few months - but at the cost of an uprising/secession among the former pirate colonies.
+  
+OUTFITS AND GAMEPLAY:
+  The reforged DFC's niche should be that of a capital-ship killer, able to lock them down and strip their shields with ease. If it's useless against fighters and gunships, all the better - but it should ideally excel at crippling and killing a single target. 
+  
+  The Free Worlds will begin to manufacture the Juggernaut, a modified Dreadnought with a spinal mount and improved systems.
+  
+  The Dragon's Heart outfit - the reward for taking the anti-proliferation path - will occupy the same spinal mount slot but transform the Emerald Sword/Juggarnauts into turret-heavy tanks. 
+  
+  Tech should be powerful, but not necessarily efficient. It's still made by humans, after all - it's just big.
